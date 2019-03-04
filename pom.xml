@@ -5,7 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   
   <properties>
-    <suiteXmlFile>C:\Users\mohamed.ossama\eclipse-workspace\mavenID\src\main\resources\testng.xml</suiteXmlFile>
+    <suiteXmlFile>C:\Users\mohamed.ossama\eclipse-workspace\DeDo\testng.xml</suiteXmlFile>
   </properties>
   
   <dependencies> 
